@@ -225,7 +225,8 @@ display:inline-block;
   background-color: rgb(129, 181, 212);
   overflow: hidden;
 } 
+
 #map {
   /* Set the size of the div element that contains the map */
-  height: 100%; /* The height is 400 pixels */
+  height: 400px; /* The height is 400 pixels */
 }

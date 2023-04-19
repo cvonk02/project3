@@ -1,5 +1,3 @@
-
-
 // Map
 
 // Initialize and add the map
