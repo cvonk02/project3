@@ -42,13 +42,13 @@
 
 
   .background {
-    background-color:#4fa8b1
+    background-color:#b8b8b8
   }
   #resume{
     width: 70%;
     margin: 0 auto 5% auto;
     padding: 1% 1% 1% 1%;
-    background-color: #4fa8b1;
+    background-color: #b6b6b6;
   }
 
 /** CARS **/
@@ -265,7 +265,7 @@ display:inline-block;
   
   .center-text {
     text-align: center;
-    color: rgb(4, 93, 121);
+    color: rgb(211, 211, 211);
     text-shadow: 2px 2px #818181;
   }
   
